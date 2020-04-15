@@ -1,0 +1,152 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+
+/*
+.main-container{
+  width: 100%;
+  padding: 0;
+} */
+
+.view-id-slideshow.view-display-id-block_1 .view-content ul.slides li {
+  position: relative;
+}
+.view-id-slideshow.view-display-id-block_1 .view-content ul.slides li a {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.view-id-slideshow.view-display-id-block_1 .view-content ul.slides li .views-field-title {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+.region-header .block-views #flexslider-1 ul.slides li div h2{
+    /* position: relative;
+    bottom: 150px;
+    left: 30px; */
+    color: #F3F6E3;
+    font-size: 40px;
+    font-weight: bold;
+}
+.views-field-field-cta .field-content a{
+  /* position: relative;
+    bottom: 160px;
+    left: 30px; */
+}
+.region-header .block-views .flexslider {
+  border: 0;
+}
+
+.view-footer button {
+  background-color: #269abc;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.view-footer button a {
+  color: black;
+  text-decoration: none;
+
+}
+.view-footer{
+  text-align: center;
+}
+
+#navbar {
+  width: 100% !important;
+  max-width: 100% !important;
+  background: #fff;
+  border: 0;
+  border-bottom: 1px solid #ebebeb;
+    /* box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19); */
+}
+
+html body {
+  margin: 0;
+}
+
+
+
+.full_width .views-field-field-footer-image .field-content img{
+  width: 100%;
+  padding: 10px 0;
+}
+.full_width .view-content .views-row{
+  position: relative;
+}
+.full_width .view-content .views-row div h2{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 19px;
+    font-weight: bold;
+}
+.social-media-sharing{
+  float: right;
+}
+
+.page-node-type-product .field--type-image, .page-node-type-product .right-content {
+  display: inline-block;
+  vertical-align: top;
+  width: 49%;
+  border: 0;
+  box-shadow: none;
+}
+#flexslider-1 ol.flex-control-paging {
+  display: none;
+}
+.page-node-type-product .right-content .panel-heading a {
+  pointer-events: none;
+}
+.page-node-type-product .right-content .panel-heading {
+  border: 0;
+  background: #fff;
+}
+.page-node-type-product .right-content .panel-body {
+  display: block !important;
+}
+.field-group-tabs-wrapper ul.nav.nav-tabs {
+    padding-bottom: 0;
+    width: 100%;
+}.field-group-tabs-wrapper ul.nav.nav-tabs > li {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 2px;
+}.field-group-tabs-wrapper ul.nav.nav-tabs > li > a,
+.field-group-tabs-wrapper ul.nav.nav-tabs > li > a:hover,
+.field-group-tabs-wrapper ul.nav.nav-tabs > li.active > a {
+    border-bottom: 0 none;
+    border-color: #dddddd #dddddd rgba(0, 0, 0, 0) #dddddd;
+    border-radius: 4px 4px 0 0;
+    margin-bottom: 0;
+}
+
+.view-id-flag_bookmark .view-footer a{
+    background-color: #269abc;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.navbar-header {
+  width: 100%;
+  padding: 10px 0;
+}
+.navbar{
+  margin-bottom: 0;
+}
